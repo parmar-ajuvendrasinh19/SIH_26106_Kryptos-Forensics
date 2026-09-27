@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" fill="none">
+  <!-- Stripe 1: Outermost sweeping band with bottom hook -->
+  <path
+    d="M 480 186 
+       L 548 186 
+       L 396 338 
+       C 328 406 278 482 278 566 
+       C 278 636 308 696 350 736 
+       L 416 762 
+       L 350 762 
+       C 292 716 230 648 230 558 
+       C 230 460 286 380 348 318 
+       Z"
+    fill="currentColor"
+  />
+
+  <!-- Stripe 2: Middle concentric band -->
+  <path
+    d="M 594 186 
+       L 660 186 
+       L 508 338 
+       C 438 408 392 480 392 556 
+       L 326 598 
+       C 326 492 384 410 440 354 
+       Z"
+    fill="currentColor"
+  />
+
+  <!-- Stripe 3: Inner ribbon (Top arm + Central curve + Upper diagonal leg) -->
+  <path
+    d="M 704 186 
+       L 772 186 
+       L 620 338 
+       C 548 410 504 476 504 538 
+       C 504 572 524 600 564 640 
+       L 728 804 
+       L 728 814 
+       L 660 814 
+       L 476 630 
+       C 440 594 424 558 424 520 
+       C 424 452 466 394 532 328 
+       Z"
+    fill="currentColor"
+  />
+
+  <!-- Stripe 4: Lower diagonal leg -->
+  <path
+    d="M 442 630 
+       L 482 670 
+       L 616 804 
+       L 616 814 
+       L 548 814 
+       L 388 654 
+       Z"
+    fill="currentColor"
+  />
+</svg>

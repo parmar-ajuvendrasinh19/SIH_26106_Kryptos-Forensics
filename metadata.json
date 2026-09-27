@@ -1,0 +1,6 @@
+{
+  "name": "Kryptos Forensics",
+  "description": "AI-powered email threat detection, authentication verification, IOC extraction, origin trace, and forensic intelligence workstation.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
